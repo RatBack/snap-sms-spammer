@@ -1,6 +1,7 @@
 #!usr/lib/python3
 import requests
 import time
+from colorama import Fore
 
 ## SMS SPAMMER 
 prejudice = input(Fore.BLUE+'Enter Fucking Target Prejudice Number(Example:98)=> ')
